@@ -1,6 +1,6 @@
 ---
 title: UOC Análisis de Datos Ómicos
-author: "Marco Antonio Rodriguez Rueda"
+author: "Marco Antonio Ramírez Rueda"
 date: "2024-11-05"
 output:
   pdf_document: default
